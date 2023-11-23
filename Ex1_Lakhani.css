@@ -1,0 +1,28 @@
+body{
+	font-family: Arial, sans-serif;
+	text-align: center;
+	padding: 20px;
+	margin: auto;
+	background-color: steelblue;
+}
+
+#eagle {
+	background-color: black;
+	color: white;
+	border: dashed;
+
+}
+
+#Alfred {
+	font-weight: bold;
+}
+
+#clasp {
+	text-align: left;
+	display: inline-block;
+	width: 65%;
+}
+
+#pic{
+	display: inline-block;
+}

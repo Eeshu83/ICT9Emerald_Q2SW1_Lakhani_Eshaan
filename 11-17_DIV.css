@@ -1,0 +1,36 @@
+body{
+	font-family: Arial, sans-serif;
+	text-align: left;
+	padding: 20px;
+	margin: auto;
+}
+
+
+#about {
+	background-color: lightblue;
+	color: white;
+	padding: 20px;
+	width: 30%;
+	font-variant:small-caps;
+	text-decoration: underline;
+	border: solid;
+	border-color: darkblue;
+	display: inline-block;
+	border-radius: 100px;
+}
+
+#interests {
+	background-color: blue;
+	color: white;
+	padding: 20px;
+	width: 30%;
+	font-variant: small-caps;
+	text-decoration: overline;
+	display: inline-block;
+	border-radius: 100px;
+}
+
+
+h1 {
+	color: rgb(0, 171, 255, 2.0);
+}

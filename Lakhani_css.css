@@ -1,0 +1,14 @@
+body{
+	background-color: antiquewhite;
+}
+
+
+#logo{ text-align:center; }
+
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: cornsilk;
+	border-color: orangered;
+}
